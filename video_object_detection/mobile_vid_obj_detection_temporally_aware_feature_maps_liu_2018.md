@@ -1,6 +1,6 @@
 ## Mobile Video Object Detection with Temporally-Aware Feature Maps - Liu and Zhu (2018)
 
-####TLDR
+#### TLDR
 Propose a series of modifications to LSTMs placed within single-frame oject detection models:
 * Use of depth separable convolutions
 * Bottleneck-LSTM which applies 1x1 convolution layer to the concatenated hidden state and input, 
